@@ -1,0 +1,36 @@
+{
+  "snippets": [
+    {
+      "title": "test",
+      "tags": "test",
+      "language": "JavaScript",
+      "code": "test",
+      "explanation": "test",
+      "id": 1
+    },
+    {
+      "title": "test 2",
+      "tags": "test",
+      "language": "JavaScript",
+      "code": "test 2",
+      "explanation": "test 2",
+      "id": 2
+    },
+    {
+      "title": "test 3",
+      "tags": "test 3",
+      "language": "JavaScript",
+      "code": "test 3",
+      "explanation": "test 3",
+      "id": 3
+    },
+    {
+      "title": "test 4",
+      "tags": "test 4",
+      "language": "JavaScript",
+      "code": "test 4",
+      "explanation": "test 4",
+      "id": 4
+    }
+  ]
+}
